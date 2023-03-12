@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Weather Dashboard",
+        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "github_url": "https://github.com/nailahmukhtar/Weather-Dashboard",
+        "deployed_url": "https://nailahmukhtar.github.io/Weather-Dashboard/",
+        "description": "A 5 day weather forecast dashboard for your location of choice"
+    },
+    {
+      "id": 2,
+      "name": "Work Day Scheduler",
+      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+      "github_url": "https://github.com/nailahmukhtar/Work-Day-Scheduler",
+      "deployed_url": "https://nailahmukhtar.github.io/Work-Day-Scheduler/",
+      "description": "Schedule your work day with this easy to use application"
+    },
+    {
+      "id": 3,
+      "name": "Timed Code Quiz",
+      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "github_url": "https://github.com/nailahmukhtar/Web-API-Code-Quiz",
+      "deployed_url": "https://nailahmukhtar.github.io/Web-API-Code-Quiz/",
+      "description": "Do you know code? Find out with this quiz!"
+    },
+    {
+      "id": 4,
+      "name": "Bootstrap Portfolio",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+      "github_url": "https://github.com/nailahmukhtar/Bootstrap-Portfolio",
+      "deployed_url": "https://nailahmukhtar.github.io/Bootstrap-Portfolio/",
+      "description": "A portfolio website created using Bootstrap"
+    },
+    {
+      "id": 5,
+      "name": "Password Generator",
+      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+      "github_url": "https://github.com/nailahmukhtar/JavaScript-Password-Generator",
+      "deployed_url": "https://nailahmukhtar.github.io/JavaScript-Password-Generator/",
+      "description": "A javaScript password generator"
+    },
+    {
+      "id": 6,
+      "name": "CSS Cheatsheet",
+      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+      "github_url": "#",
+      "deployed_url": "#",
+      "description": "A CSS Cheatsheet for those hard to remember pieces of syntax"
+    }
+  ]
+  
