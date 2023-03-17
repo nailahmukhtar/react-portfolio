@@ -5,7 +5,7 @@
         "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
         "github_url": "https://github.com/nailahmukhtar/Weather-Dashboard",
         "deployed_url": "https://nailahmukhtar.github.io/Weather-Dashboard/",
-        "description": "A 5 day weather forecast dashboard for your location of choice"
+        "description": "5 day weather forecast for any location"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
       "github_url": "https://github.com/nailahmukhtar/Work-Day-Scheduler",
       "deployed_url": "https://nailahmukhtar.github.io/Work-Day-Scheduler/",
-      "description": "Schedule your work day with this easy to use application"
+      "description": "Schedule your work day to increase productivity"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
       "github_url": "https://github.com/nailahmukhtar/Web-API-Code-Quiz",
       "deployed_url": "https://nailahmukhtar.github.io/Web-API-Code-Quiz/",
-      "description": "Do you know code? Find out with this quiz!"
+      "description": "Do you know how to code? Find out with this quiz!"
     },
     {
       "id": 4,
@@ -29,15 +29,15 @@
       "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
       "github_url": "https://github.com/nailahmukhtar/Bootstrap-Portfolio",
       "deployed_url": "https://nailahmukhtar.github.io/Bootstrap-Portfolio/",
-      "description": "A portfolio website created using Bootstrap"
+      "description": "Portfolio website created with Bootstrap"
     },
     {
       "id": 5,
       "name": "Password Generator",
-      "image": "./public/password-generator.png",
+      "image": "/password-generator.png",
       "github_url": "https://github.com/nailahmukhtar/JavaScript-Password-Generator",
       "deployed_url": "https://nailahmukhtar.github.io/JavaScript-Password-Generator/",
-      "description": "A javaScript password generator"
+      "description": "Javascript password generator"
     },
     {
       "id": 6,
