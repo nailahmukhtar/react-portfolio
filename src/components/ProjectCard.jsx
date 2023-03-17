@@ -6,9 +6,9 @@ function ProjectCard(props) {
             <div class="card medium">
                 <div class="card-image">
                     <img src={props.image}/>
-                    <span class="card-title">{props.name}</span>
                 </div>
                 <div class="card-content">
+                    <span class="card-title">{props.name}</span>
                     <p>{props.description}</p>
                 </div>
                 <div class="card-action">
