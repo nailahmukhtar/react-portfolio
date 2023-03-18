@@ -16,7 +16,7 @@ state = {
           <PageTitle
             title={'Projects'}
           />
-          <div className='container'>
+          <div>
             <div class="row">
               {this.state.projectfiles.map(project => (
                 <ProjectCard
