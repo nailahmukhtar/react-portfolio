@@ -17,7 +17,7 @@ function Home() {
   return (
     <div className='container'>
       <div className="row">
-        <div class="col s6">
+        <div className="col s6">
           <img style={styles.img} src={require=('/Avatar.png')}/>
         </div>
         <div style={styles.herotext} className="col s6">

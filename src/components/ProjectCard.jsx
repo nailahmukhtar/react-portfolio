@@ -2,16 +2,16 @@ import React from 'react'
 
 function ProjectCard(props) {
   return (
-        <div class="col s12 m6 l4">
-            <div class="card medium">
-                <div class="card-image">
+        <div className="col s12 m6 l4">
+            <div className="card medium">
+                <div className="card-image">
                     <img src={props.image}/>
                 </div>
-                <div class="card-content">
-                    <span class="card-title">{props.name}</span>
+                <div className="card-content">
+                    <span className="card-title">{props.name}</span>
                     <p>{props.description}</p>
                 </div>
-                <div class="card-action">
+                <div className="card-action">
                     <a href={props.github_url}>Github</a>
                     <a href={props.deployed_url}>Application</a>
                 </div>
