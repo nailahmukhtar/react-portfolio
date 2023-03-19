@@ -12,9 +12,9 @@ function App() {
         <Header />
         <div>
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="projects" element={<Projects />} />
-            <Route path="contact" element={<Contact />} />
+            <Route path="/react-portfolio/" element={<Home />} />
+            <Route path="/react-portfolio/projects" element={<Projects />} />
+            <Route path="/react-portfolio/contact" element={<Contact />} />
           </Routes>
         </div>
       </Router>
