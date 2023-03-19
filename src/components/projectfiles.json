@@ -1,6 +1,14 @@
 [
     {
-        "id": 1,
+      "id": 1,
+      "name": "Film database",
+      "image": "/filmdb.png",
+      "github_url": "https://github.com/philculling/cinema_search",
+      "deployed_url": "https://philculling.github.io/cinema_search/",
+      "description": "A minimal film/tv database"
+    },
+    {
+        "id": 2,
         "name": "Weather Dashboard",
         "image": "/weatherdashboard.png",
         "github_url": "https://github.com/nailahmukhtar/Weather-Dashboard",
@@ -8,7 +16,7 @@
         "description": "5 day weather forecast for any location"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Work Day Scheduler",
       "image": "/dayscheduler.png",
       "github_url": "https://github.com/nailahmukhtar/Work-Day-Scheduler",
@@ -16,7 +24,7 @@
       "description": "Schedule your work day to increase productivity"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Timed Code Quiz",
       "image": "/codequiz.png",
       "github_url": "https://github.com/nailahmukhtar/Web-API-Code-Quiz",
@@ -24,28 +32,21 @@
       "description": "Do you know how to code? Find out with this quiz!"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Bootstrap Portfolio",
-      "image": "/portfolio.gif",
+      "image": "/portfolio.png",
       "github_url": "https://github.com/nailahmukhtar/Bootstrap-Portfolio",
       "deployed_url": "https://nailahmukhtar.github.io/Bootstrap-Portfolio/",
       "description": "Portfolio website created with Bootstrap"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Password Generator",
       "image": "/password-generator.png",
       "github_url": "https://github.com/nailahmukhtar/JavaScript-Password-Generator",
       "deployed_url": "https://nailahmukhtar.github.io/JavaScript-Password-Generator/",
       "description": "Javascript password generator"
-    },
-    {
-      "id": 6,
-      "name": "CSS Cheatsheet",
-      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-      "github_url": "#",
-      "deployed_url": "#",
-      "description": "A CSS Cheatsheet for those hard to remember pieces of syntax"
     }
+
   ]
   

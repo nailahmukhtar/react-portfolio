@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
 import M from 'materialize-css';
+import './styles/Styles.css'
 
 function NavTabs() {
 

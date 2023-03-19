@@ -3,6 +3,20 @@ import PageTitle from '../PageTitle';
 import '../styles/Styles.css';
 
 function Contact() {
+
+  const downloadPDF = () => {
+    // get file function
+    fetch('/NailahMukhtar.pdf').then(response => {
+        response.blob().then(blob => {
+            const fileURL = window.URL.createObjectURL(blob);
+            let alink = document.createElement('a');
+            alink.href = fileURL;
+            alink.download = 'NailahMukhtar.pdf';
+            alink.click();
+        })
+    })
+}
+
   return (
     <div>
       <PageTitle
@@ -40,6 +54,9 @@ function Contact() {
             </div>
             <div className="row">
               <a href="https://www.linkedin.com/in/nailah-mukhtar/" class="waves-effect waves-light btn-large"><i class="material-icons left">link</i>LinkedIn</a>
+            </div>
+            <div className="row">
+              <a class="waves-effect waves-light btn-large" onClick={downloadPDF}><i class="material-icons left">link</i>My Resume</a>
             </div>
           </div>
         </div>

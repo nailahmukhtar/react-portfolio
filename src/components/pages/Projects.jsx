@@ -17,7 +17,7 @@ state = {
             title={'Projects'}
           />
           <div>
-            <div class="row">
+            <div class="row container">
               {this.state.projectfiles.map(project => (
                 <ProjectCard
                   id={project.id}
