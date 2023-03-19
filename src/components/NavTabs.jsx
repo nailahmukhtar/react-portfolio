@@ -14,12 +14,12 @@ function NavTabs() {
         return (
             <div>
                 <nav className="nav-wrapper">
-                    <a href="/" className="center">Nailah Mukhtar // React Dev</a>
+                    <a href="/react-portfolio" className="center">Nailah Mukhtar // React Dev</a>
                     <a href="#" data-target="slide" className="sidenav-trigger show-on-large"><i className="material-icons">menu</i></a>
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
                         <li className={location.pathname === '/' ? 'active' : ''}>
                             <NavLink 
-                                to="/" 
+                                to="/react-portfolio/" 
                                 end
                                 >
                                 Home
@@ -27,14 +27,14 @@ function NavTabs() {
                         </li>
                         <li className={location.pathname === '/projects' ? 'active' : ''}>
                             <NavLink
-                            to="projects"
+                            to="/react-portfolio/projects"
                             >
                             Projects
                             </NavLink>
                         </li>
                         <li className={location.pathname === '/contact' ? 'active' : ''}>
                             <NavLink
-                            to="contact"
+                            to="/react-portfolio/contact"
                             end
                             >
                             Contact
