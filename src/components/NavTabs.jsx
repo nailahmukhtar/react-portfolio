@@ -43,9 +43,9 @@ function NavTabs() {
                     </ul>
                 </nav>
                 <ul className="sidenav" id="slide">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="projects">Projects</a></li>
-                    <li><a href="contact">Contact</a></li>
+                    <li><a href="/react-portfolio/">Home</a></li>
+                    <li><a href="/react-portfolio/projects">Projects</a></li>
+                    <li><a href="/react-portfolio/contact">Contact</a></li>
                 </ul>
             </div>
         );
