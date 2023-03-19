@@ -14,12 +14,12 @@ function NavTabs() {
         return (
             <div>
                 <nav className="nav-wrapper">
-                    <a href="/react-portfolio" className="center">Nailah Mukhtar // React Dev</a>
+                    <a href="/" className="center">Nailah Mukhtar // React Dev</a>
                     <a href="#" data-target="slide" className="sidenav-trigger show-on-large"><i className="material-icons">menu</i></a>
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
                         <li className={location.pathname === '/' ? 'active' : ''}>
                             <NavLink 
-                                to="/react-portfolio/" 
+                                to="/" 
                                 end
                                 >
                                 Home
