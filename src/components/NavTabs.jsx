@@ -43,9 +43,30 @@ function NavTabs() {
                     </ul>
                 </nav>
                 <ul className="sidenav" id="slide">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/projects">Projects</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <li>
+                        <NavLink 
+                            to="/" 
+                            end
+                            >
+                            Home
+                        </NavLink>
+                    </li>
+                    <li>
+                        <NavLink 
+                            to="/projects" 
+                            end
+                            >
+                            Projects
+                        </NavLink>
+                    </li>                    
+                    <li>
+                        <NavLink 
+                            to="/contact" 
+                            end
+                            >
+                            Contact
+                        </NavLink>
+                    </li>
                 </ul>
             </div>
         );
