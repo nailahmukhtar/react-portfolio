@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Weather Dashboard",
-        "image": "https://nailahmukhtar.github.io/react-portfolio/weatherdashboard.png",
+        "image": "/weatherdashboard.png",
         "github_url": "https://github.com/nailahmukhtar/Weather-Dashboard",
         "deployed_url": "https://nailahmukhtar.github.io/Weather-Dashboard/",
         "description": "5 day weather forecast for any location"
@@ -18,7 +18,7 @@
     {
       "id": 3,
       "name": "Work Day Scheduler",
-      "image": "https://nailahmukhtar.github.io/react-portfolio/dayscheduler.png",
+      "image": "/dayscheduler.png",
       "github_url": "https://github.com/nailahmukhtar/Work-Day-Scheduler",
       "deployed_url": "https://nailahmukhtar.github.io/Work-Day-Scheduler/",
       "description": "Schedule your work day to increase productivity"
@@ -26,7 +26,7 @@
     {
       "id": 4,
       "name": "Timed Code Quiz",
-      "image": "https://nailahmukhtar.github.io/react-portfolio/codequiz.png",
+      "image": "/codequiz.png",
       "github_url": "https://github.com/nailahmukhtar/Web-API-Code-Quiz",
       "deployed_url": "https://nailahmukhtar.github.io/Web-API-Code-Quiz/",
       "description": "Do you know how to code? Find out with this quiz!"
@@ -34,7 +34,7 @@
     {
       "id": 5,
       "name": "Bootstrap Portfolio",
-      "image": "https://nailahmukhtar.github.io/react-portfolio/portfolio.png",
+      "image": "/portfolio.png",
       "github_url": "https://github.com/nailahmukhtar/Bootstrap-Portfolio",
       "deployed_url": "https://nailahmukhtar.github.io/Bootstrap-Portfolio/",
       "description": "Portfolio website created with Bootstrap"
@@ -42,7 +42,7 @@
     {
       "id": 6,
       "name": "Password Generator",
-      "image": "https://nailahmukhtar.github.io/react-portfolio/password-generator.png",
+      "image": "/password-generator.png",
       "github_url": "https://github.com/nailahmukhtar/JavaScript-Password-Generator",
       "deployed_url": "https://nailahmukhtar.github.io/JavaScript-Password-Generator/",
       "description": "Javascript password generator"
