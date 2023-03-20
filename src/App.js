@@ -13,8 +13,8 @@ function App() {
         <div>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/react-portfolio/projects" element={<Projects />} />
-            <Route path="/react-portfolio/contact" element={<Contact />} />
+            <Route path="/projects" element={<Projects />} />
+            <Route path="/contact" element={<Contact />} />
           </Routes>
         </div>
       </Router>
