@@ -8,7 +8,7 @@ import 'materialize-css/dist/css/materialize.min.css';
 
 function App() {
     return (
-      <Router basename="process.env.PUBLIC_URL/react-portfolio">
+      <Router basename="process.env.PUBLIC_URL">
         <Header />
         <div>
           <Routes>
