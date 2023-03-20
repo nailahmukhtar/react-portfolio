@@ -27,14 +27,14 @@ function NavTabs() {
                         </li>
                         <li className={location.pathname === '/projects' ? 'active' : ''}>
                             <NavLink
-                            to="/react-portfolio/projects"
+                            to="/projects"
                             >
                             Projects
                             </NavLink>
                         </li>
                         <li className={location.pathname === '/contact' ? 'active' : ''}>
                             <NavLink
-                            to="/react-portfolio/contact"
+                            to="/contact"
                             end
                             >
                             Contact
@@ -43,9 +43,9 @@ function NavTabs() {
                     </ul>
                 </nav>
                 <ul className="sidenav" id="slide">
-                    <li><a href="/react-portfolio/">Home</a></li>
-                    <li><a href="/react-portfolio/projects">Projects</a></li>
-                    <li><a href="/react-portfolio/contact">Contact</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/projects">Projects</a></li>
+                    <li><a href="/contact">Contact</a></li>
                 </ul>
             </div>
         );
