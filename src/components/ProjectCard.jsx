@@ -6,7 +6,7 @@ function ProjectCard(props) {
         <div className="col s12 m6 l4">
             <div className="card medium">
                 <div className="card-image">
-                    <img src={props.image}/>
+                    <img src={process.env.PUBLIC_URL + props.image}/>
                 </div>
                 <div className="card-content">
                     <span className="card-title">{props.name}</span>

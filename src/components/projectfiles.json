@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Film database",
-      "image": "https://nailahmukhtar.github.io/react-portfolio/filmdb.png",
+      "image": "/filmdb.png",
       "github_url": "https://github.com/philculling/cinema_search",
       "deployed_url": "https://philculling.github.io/cinema_search/",
       "description": "A minimal film/tv database"
